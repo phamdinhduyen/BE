@@ -100,7 +100,8 @@
       "start_date": "20-11-2022",
       "end_date": "30-11-2022",
       "is_percent": true,
-      "value": 15
+      "value": 15,
+      "rate": "%"
     },
     {
       "id": 2,
@@ -110,7 +111,8 @@
       "start_date": "24-11-2022",
       "end_date": "30-12-2022",
       "is_percent": false,
-      "value": 200000
+      "value": 200000,
+      "rate": ""
     }
   ],
   "carousel": [
