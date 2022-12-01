@@ -29,19 +29,31 @@
   "optprice": [
     {
       "label": " Dưới 5 triệu",
-      "value": [0, 4999999]
+      "value": [
+        0,
+        4999999
+      ]
     },
     {
       "label": "  Từ 5 triệu đến 10 triệu",
-      "value": [4999999, 9999999]
+      "value": [
+        4999999,
+        9999999
+      ]
     },
     {
       "label": " Từ 10 triệu đén 20 triệu",
-      "value": [9999999, 19999999]
+      "value": [
+        9999999,
+        19999999
+      ]
     },
     {
       "label": "   Từ 20 triệu đến 40 triệu",
-      "value": [19999999, 39999999]
+      "value": [
+        19999999,
+        39999999
+      ]
     }
   ],
   "orders": [
@@ -67,6 +79,30 @@
           "image": "https://cdn.tgdd.vn/Products/Images/42/250262/iphone-13-pro-max-1-2.jpg",
           "email": "pdinhduyen@gmail.com",
           "slug": "Điện-thoại-iPhone-13-Pro-Max-512GB -2"
+        }
+      ]
+    },
+    {
+      "id": "f391e768-f2e5-4024-b67a-36591855a0f3",
+      "email": "pdinhduyen@gmail.com",
+      "total": 23735000,
+      "fullName": "PHAM DINH DUYEN",
+      "phone": 111111111111,
+      "address": "111",
+      "shipping": "shipping-wasteful",
+      "created": "1-12-2022",
+      "status": "CREATED",
+      "product": [
+        {
+          "id": "8.1",
+          "name": "Điện thoại Samsung Galaxy Z Flip4 128GB Đỏ ",
+          "price": 27900000,
+          "color": "Đỏ",
+          "quantity": 1,
+          "total": 27900000,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-1-1.jpg",
+          "email": "pdinhduyen@gmail.com",
+          "slug": "Điện-thoại-Samsung-Galaxy-Z-Flip4-128GB  -8"
         }
       ]
     }
@@ -97,8 +133,8 @@
       "code": "KHAITRUONG",
       "description": "This is coupon for you",
       "total_amount_apply": 10000000,
-      "start_date": "20-11-2022",
-      "end_date": "30-11-2022",
+      "start_date": "1-11-2022",
+      "end_date": "30-11-2023",
       "is_percent": true,
       "value": 15,
       "rate": "%"
@@ -108,8 +144,8 @@
       "code": "1111",
       "description": "This is coupon for you",
       "total_amount_apply": 10000000,
-      "start_date": "24-11-2022",
-      "end_date": "30-12-2022",
+      "start_date": "1-12-2022",
+      "end_date": "30-12-2023",
       "is_percent": false,
       "value": 200000,
       "rate": ""
